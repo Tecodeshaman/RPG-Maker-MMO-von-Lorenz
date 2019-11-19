@@ -137,3 +137,9 @@
 17:05:22: admin executou o comando 1: all 3 15 23
 17:05:24: admin executou o comando 1: all 3 14 20
 17:05:25: admin executou o comando 1: all 3 16 19
+19:54:25: oliver executou o comando 1: jaa 3 61 23
+19:54:32: oliver executou o comando 1: jaa 3 22 6
+19:54:36: oliver executou o comando 1: jaa 3 22 6
+19:54:38: oliver executou o comando 1: jaa 3 21 7
+19:54:39: oliver executou o comando 1: jaa 3 21 11
+19:54:41: oliver executou o comando 1: jaa 3 21 13

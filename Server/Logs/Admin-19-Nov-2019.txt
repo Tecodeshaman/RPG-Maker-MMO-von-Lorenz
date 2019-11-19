@@ -127,3 +127,9 @@
 09:14:32: admin executou o comando 1: qwe 2 24 15
 09:16:54: admin executou o comando 1: qwe 2 17 34
 09:16:55: admin executou o comando 1: qwe 2 24 17
+12:15:44: admin executou o comando 1: asd 3 16 23
+12:15:46: admin executou o comando 1: asd 3 20 18
+12:15:44: admin executou o comando 1: asd 3 16 23
+12:15:46: admin executou o comando 1: asd 3 20 18
+12:15:44: admin executou o comando 1: asd 3 16 23
+12:15:46: admin executou o comando 1: asd 3 20 18

@@ -1,0 +1,12 @@
+10:48:35: Error: undefined method `send_choice_telepot' for nil:NilClass
+10:48:35: Error: undefined method `send_choice_telepot' for nil:NilClass
+10:48:35: Error: undefined method `send_choice_telepot' for nil:NilClass
+10:48:35: Error: undefined method `send_choice_telepot' for nil:NilClass
+10:48:35: Error: undefined method `send_choice_telepot' for nil:NilClass
+10:48:35: Error: undefined method `send_choice_telepot' for nil:NilClass
+10:48:35: Error: undefined method `send_choice_telepot' for nil:NilClass
+10:48:35: Error: undefined method `send_choice_telepot' for nil:NilClass
+10:48:35: Error: undefined method `send_choice_telepot' for nil:NilClass
+10:48:35: Error: undefined method `send_choice_telepot' for nil:NilClass
+10:48:35: Error: undefined method `send_choice_telepot' for nil:NilClass
+10:48:35: Error: undefined method `send_choice_telepot' for nil:NilClass

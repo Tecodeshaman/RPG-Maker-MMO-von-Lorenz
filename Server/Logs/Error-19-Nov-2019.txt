@@ -10,3 +10,13 @@
 10:48:35: Error: undefined method `send_choice_telepot' for nil:NilClass
 10:48:35: Error: undefined method `send_choice_telepot' for nil:NilClass
 10:48:35: Error: undefined method `send_choice_telepot' for nil:NilClass
+17:05:33: Error: undefined method `reverse_transfer' for #<Game_Client:0x30a5f90>
+Did you mean?  reverse_dir
+17:30:57: Error: undefined method `reserve_transfer' for #<Game_Client:0x31bc0f0>
+17:30:57: Error: undefined method `reserve_transfer' for #<Game_Client:0x31bc0f0>
+17:30:57: Error: undefined method `reserve_transfer' for #<Game_Client:0x31bc0f0>
+17:30:57: Error: undefined method `reserve_transfer' for #<Game_Client:0x31bc0f0>
+19:42:01: Error: undefined method `reserve_transfer' for nil:NilClass
+19:42:01: Error: undefined method `reserve_transfer' for nil:NilClass
+19:42:01: Error: undefined method `reserve_transfer' for nil:NilClass
+19:42:01: Error: undefined method `reserve_transfer' for nil:NilClass

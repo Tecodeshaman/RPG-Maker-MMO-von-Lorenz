@@ -133,3 +133,7 @@
 12:15:46: admin executou o comando 1: asd 3 20 18
 12:15:44: admin executou o comando 1: asd 3 16 23
 12:15:46: admin executou o comando 1: asd 3 20 18
+17:05:21: admin executou o comando 1: all 3 14 34
+17:05:22: admin executou o comando 1: all 3 15 23
+17:05:24: admin executou o comando 1: all 3 14 20
+17:05:25: admin executou o comando 1: all 3 16 19

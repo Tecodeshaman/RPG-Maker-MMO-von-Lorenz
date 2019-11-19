@@ -236,3 +236,8 @@
 22:00:56: oliver executou o comando 1: aaa 10 17 18
 22:00:58: oliver executou o comando 1: aaa 10 17 14
 22:02:04: oliver executou o comando 1: aaa 5 13 11
+22:00:50: oliver executou o comando 1: aaa 10 23 9
+22:00:53: oliver executou o comando 1: aaa 10 17 18
+22:00:56: oliver executou o comando 1: aaa 10 17 18
+22:00:58: oliver executou o comando 1: aaa 10 17 14
+22:02:04: oliver executou o comando 1: aaa 5 13 11
